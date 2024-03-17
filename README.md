@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20👋,I'm%20jihwan&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi%20👋,I'm%20jihwan&fontSize=60)
 <hr>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlawlghks&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
